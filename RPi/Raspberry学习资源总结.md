@@ -2,12 +2,12 @@
 
 ```
 180504 第一次创建
-180505 更新重构分类
+180505 更新重构分类，添加安装系统相关
 ```
 
 > 本文为我关于学习树莓派的资源总结记录帖
 >
-> 以下将分为5个内容：**教程**、**视频**、**文章**、**项目**、**书籍**
+> 以下将分为6个内容：**教程**、**视频**、**文章**、**项目**、**软件**、**书籍**
 >
 > 树莓派官网：https://www.raspberrypi.org/
 
@@ -48,7 +48,20 @@
 
 #### 解决方法
 
-1. [树莓派3 B之系统安装与在电脑上用网线直接SSH登录](https://www.cnblogs.com/hqutcy/p/6345163.html)
+- 安装、登陆系统并产生图形化界面
+
+1. [tp-link TL-WDR6300 V4无线路由器设置教程](https://www.bilibili.com/video/av20553871)
+2. [树莓派3 B之系统安装与在电脑上用网线直接SSH登录](https://www.cnblogs.com/hqutcy/p/6345163.html)
+3. [无屏幕和键盘配置树莓派WiFi和SSH](http://shumeipai.nxez.com/2017/09/13/raspberry-pi-network-configuration-before-boot.html)
+4. [使用PuTTY登录到树莓派](http://shumeipai.nxez.com/2013/09/07/using-putty-to-log-in-to-the-raspberry-pie.html)
+5. [没有显示器且IP未知的情况下登录树莓派](http://shumeipai.nxez.com/2013/09/07/no-screen-unknow-ip-login-pi.html)
+6. [树莓派学习笔记（3）：利用VNC远程控制树莓派](http://www.cnblogs.com/xiaowuyi/p/4012069.html)
+7. [新版树莓派中内置的real-vnc-server](http://www.mamicode.com/info-detail-1720185.html)
+8. [VNC Connect and Raspberry Pi](https://www.realvnc.com/en/connect/docs/raspberry-pi.html#raspberry-pi-setup)
+
+- 设置静态IP地址
+
+1. [树莓派 LED含义 扩展口定义 静态IP](https://blog.csdn.net/liang890319/article/details/8639128)
 
 #### 观点
 
@@ -62,13 +75,14 @@
 
 `To be continued`
 
+### Softwares | 软件
+
+1. SD Formatter
+2. Win32 Disk Imager
+3. putty
+4. ipscan
+5. VNC Viewer（全客户端）
+
 ###  Books | 书籍
 
 1. [RASPBERRY PI: 10 SITES & VARIOUS FREE EBOOKS](https://www.getfreeebooks.com/raspberry-pi-10-sites-various-free-ebooks/)
-
-
-
-
-
-
-
