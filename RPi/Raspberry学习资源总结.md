@@ -6,7 +6,9 @@
 ```
 
 > 本文为我关于学习树莓派的资源总结记录帖
+>
 > 以下将分为5个内容：**教程**、**视频**、**文章**、**项目**、**书籍**
+>
 > 树莓派官网：https://www.raspberrypi.org/
 
 ### Guide | 教程
@@ -19,7 +21,7 @@
 
 #### 其他：
 
-- [RPi Tutorials](https://elinux.org/RPi_Tutorials
+- [RPi Tutorials](https://elinux.org/RPi_Tutorials)
 
 ### Video | 视频
 
@@ -27,15 +29,13 @@
 
 - 零散视频
 
-1. [树莓派3 B之系统安装与在电脑上用网线直接SSH登录](https://www.cnblogs.com/hqutcy/p/6345163.html)
+1. [【入门】面对初学者的树莓派教程，来啊，一起买来积灰啊](https://www.bilibili.com/video/av12147716?t=319)
 
 - 系列视频
 
-1. [【入门】面对初学者的树莓派教程，来啊，一起买来积灰啊](https://www.bilibili.com/video/av12147716?t=319)
+1. [【类型（教程、树莓派）】1.入门前树莓派简单介绍](https://www.bilibili.com/video/av18821107)
 
-2. [【类型（教程、树莓派）】1.入门前树莓派简单介绍](https://www.bilibili.com/video/av18821107)
-
-3. [【类型（教程、树莓派）】2.树莓派装系统，SSH，VNC](https://www.bilibili.com/video/av18821200?t=771)
+2. [【类型（教程、树莓派）】2.树莓派装系统，SSH，VNC](https://www.bilibili.com/video/av18821200?t=771)
 
 ### MOOC
 
