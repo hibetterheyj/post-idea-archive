@@ -77,10 +77,8 @@
 6. [树莓派学习笔记（3）：利用VNC远程控制树莓派](http://www.cnblogs.com/xiaowuyi/p/4012069.html)
 7. [新版树莓派中内置的real-vnc-server](http://www.mamicode.com/info-detail-1720185.html)
 8. [VNC Connect and Raspberry Pi](https://www.realvnc.com/en/connect/docs/raspberry-pi.html#raspberry-pi-setup)
-
-- 设置静态IP地址
-
-1. [树莓派 LED含义 扩展口定义 静态IP](https://blog.csdn.net/liang890319/article/details/8639128)
+9. 笔记本电脑与树莓派：[树莓派第一次使用（笔记本+网线）](https://blog.csdn.net/tavox/article/details/70994392) 
+10. [树莓派 LED含义 扩展口定义 静态IP](https://blog.csdn.net/liang890319/article/details/8639128)
 
 - 相关优化
 
