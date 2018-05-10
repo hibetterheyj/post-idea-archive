@@ -20,6 +20,7 @@
 180504 第一次创建
 180505 更新重构分类，添加安装系统相关
 180506 更改【书籍】为【资源】
+180510 不断更新总结
 ```
 
 > 本文为我关于学习树莓派的资源总结记录帖
@@ -77,8 +78,9 @@
 6. [树莓派学习笔记（3）：利用VNC远程控制树莓派](http://www.cnblogs.com/xiaowuyi/p/4012069.html)
 7. [新版树莓派中内置的real-vnc-server](http://www.mamicode.com/info-detail-1720185.html)
 8. [VNC Connect and Raspberry Pi](https://www.realvnc.com/en/connect/docs/raspberry-pi.html#raspberry-pi-setup)
-9. 笔记本电脑与树莓派：[树莓派第一次使用（笔记本+网线）](https://blog.csdn.net/tavox/article/details/70994392) 
-10. [树莓派 LED含义 扩展口定义 静态IP](https://blog.csdn.net/liang890319/article/details/8639128)
+9. 笔记本电脑与树莓派：[树莓派第一次使用（笔记本+网线）](https://blog.csdn.net/tavox/article/details/70994392) 确定配置电脑网络应该选择**以太网**（无其他后缀）
+10. 完全利用SD卡空间：[树莓派3-配置-根分区扩展到整张SD卡](https://www.ncnynl.com/archives/201612/1154.html) 本文系统版本略有些陈旧，**Expand Filesystem**现在出现在`Advanced Options`，其他命令都还是正确的
+11. [树莓派 LED含义 扩展口定义 静态IP](https://blog.csdn.net/liang890319/article/details/8639128)
 
 - 相关优化
 
