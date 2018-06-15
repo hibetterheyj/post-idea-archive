@@ -34,3 +34,20 @@ git commit -m 'xxx'
 git pull origin master
 git push origin master
 ```
+
+- 出现报错
+
+```
+%输入git clone之后出现报错
+error: RPC failed; curl 18 transfer closed with outstanding read data remaining
+fatal: The remote end hung up unexpectedly
+fatal: early EOF
+fatal: index-pack failed
+
+---
+
+解决方法：
+git lone https://github.com/<user>/<repo>.git --depth 1
+```
+
+reference: https://stackoverflow.com/questions/38618885/error-rpc-failed-curl-transfer-closed-with-outstanding-read-data-remaining
